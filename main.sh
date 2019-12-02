@@ -5,6 +5,7 @@ GREEN='\033[0;32m'
 NC='\033[0m'
 
 compilerPath=./../bin/main
+makefileFolder=../
 
 run_test() {
     echo \# \# \# "$filename" \# \# \#
@@ -70,7 +71,7 @@ run_test() {
     echo
 }
 
-make main -C ../
+make main -C $makefileFolder
 
 if [ "$1" != "" ]; then
     if [ "${1: -1}" == "/" ]; then
