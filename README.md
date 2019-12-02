@@ -7,7 +7,7 @@ makefileFolder - path to folder which contains Makefile
 
 ## Usage
 ### Input
-test.src requires some input - create file test.in with input
+If test.src requires some input create file test.in with input
 
 ## Tests
 By default only the tests in the tests folder will be run. To specify a folder or a file use the first argument of the script.
