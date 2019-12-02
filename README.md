@@ -2,7 +2,9 @@
 Testing script and tests for IFJ 2019 project
 ## Setup
 In main.sh:
+
 compilerPath - path to binary
+
 makefileFolder - path to folder which contains Makefile
 
 ## Usage
