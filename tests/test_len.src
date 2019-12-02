@@ -1,0 +1,3 @@
+slovo = 'auto'
+dlzka = len(slovo)
+print(dlzka)

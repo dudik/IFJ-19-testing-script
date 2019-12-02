@@ -1,0 +1,6 @@
+slovo = 'auto'
+slovo2 = 'bus'
+
+spojeneSlovo = slovo + slovo2
+
+print('autobus je to iste ako', spojeneSlovo)

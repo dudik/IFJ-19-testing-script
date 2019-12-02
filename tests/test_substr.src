@@ -1,0 +1,2 @@
+a = substr('autobus', 2, 2)
+print(a)

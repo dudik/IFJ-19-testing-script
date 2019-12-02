@@ -1,0 +1,8 @@
+def foo(a,b,c):
+    a=bar(b)
+    print(a)
+
+def bar(a):
+    return a*3
+
+foo(1,2,3)

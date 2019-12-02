@@ -1,0 +1,14 @@
+a = 5
+b = None
+
+if a != b:
+    print('true')
+else:
+    pass
+
+a = a > 5
+
+if a:
+    print('true')
+else:
+    print('false')

@@ -1,0 +1,14 @@
+a = ord('autobus', 0)
+print(a)
+
+a = ord('autobus', 5)
+print(a)
+
+a = ord('autobus', 6)
+print(a)
+
+a = ord('autobus', 7)
+print(a)
+
+a = ord('autobus', 8)
+print(a)

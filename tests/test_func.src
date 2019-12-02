@@ -1,0 +1,11 @@
+def sucet(a, b):
+    c = a + b
+    return c
+    print('Sucet je', c)
+
+sucet(2, 3)
+
+if 2 == 2:
+    sucet(2, 5)
+else:
+    pass

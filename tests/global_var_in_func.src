@@ -1,0 +1,6 @@
+a=10
+def foo():
+    b=a+4
+    print(b) #shoud be 14
+    print(a) #this should be 10
+foo()

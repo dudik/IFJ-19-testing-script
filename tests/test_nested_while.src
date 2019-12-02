@@ -1,0 +1,8 @@
+a = 20
+b = 25
+
+while a > 10:
+    while b > 15:
+        print('ide to', a, b)
+        b = b - 1
+    a = a - 1

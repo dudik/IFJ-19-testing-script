@@ -1,0 +1,29 @@
+a = 2 != 2
+print(a)
+
+a = 2 != 2.0
+print(a)
+
+a = 2.0 != 2.0
+print(a)
+
+a = 3 != 2
+print(a)
+
+a = 2 >= 2
+print(a)
+
+a = 2 <= 2
+print(a)
+
+a = 3 >= 2
+print(a)
+
+a = 3 <= 2
+print(a)
+
+a = 3 <= 8.0
+print(a)
+
+a = 2.0 <= 2
+print(a)

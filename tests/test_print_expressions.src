@@ -1,0 +1,6 @@
+a = 2 + 3
+b= a * 2
+c =b/3
+
+print('Desatinne cislo', c)
+print('Pouzil som na to tieto cislo', a, 'a este', b)

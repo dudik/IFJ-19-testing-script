@@ -1,0 +1,7 @@
+c=5
+while (c) :
+    a=c-2
+    c=c-1
+
+
+print(a)

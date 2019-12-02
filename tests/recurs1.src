@@ -1,0 +1,11 @@
+def fact(a):
+    res = 0 
+    if(a==1):
+        return 1
+    else:
+        temp = a-1
+        res = fact(temp)     
+        return res*a
+
+final = fact(12)
+print(final)

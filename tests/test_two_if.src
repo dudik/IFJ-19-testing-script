@@ -1,0 +1,11 @@
+a = 5
+
+if a == 5:
+    print('macka')
+else:
+    pass
+
+if a == 4:
+    print('pes')
+else:
+    print('je to parada')

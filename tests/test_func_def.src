@@ -1,0 +1,2 @@
+def cau(a, b):
+    print(a, b)

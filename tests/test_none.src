@@ -1,0 +1,19 @@
+#vyhodnoti sa ako false
+if None == 1:
+    print('true')
+else:
+    print('false')
+
+#vyhodnoti sa ako true
+if None != 1:
+    print('true')
+else:
+    print('false')
+
+#vyhodnoti sa ako true
+if None == None:
+    print('true')
+else:
+    print('false')
+
+

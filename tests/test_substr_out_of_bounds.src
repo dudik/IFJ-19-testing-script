@@ -1,0 +1,71 @@
+a = substr('auto', 0, 2)
+print(a)
+
+a = substr('auto', 2, 2)
+print(a)
+
+a = substr('auto', 3, 2)
+print(a)
+
+a = substr('auto', 7, 2)
+print(a)
+
+a = substr('auto', 0, 9)
+print(a)
+
+a = substr('auto', 2, 9)
+print(a)
+
+a = substr('auto', 3, 3)
+print(a)
+
+a = substr('auto', 0, 0)
+print(a)
+
+a = substr('auto', 3, 0)
+print(a)
+
+a = substr('', 0, 0)
+print(a)
+
+a = substr('', 3, 0)
+print(a)
+
+a = substr('', 3, 8)
+print(a)
+
+a = substr('', 0, 9)
+print(a)
+
+a = substr('', 3, 3)
+print(a)
+
+a = substr('abs', 3, 3)
+print(a)
+
+a = substr('abssad', 3, 3)
+print(a)
+
+a = substr('autobus je krasna vec', 3, 3)
+print(a)
+
+a = substr('autobus je krasna vec', 0, 3)
+print(a)
+
+a = substr('autobus je krasna vec', 3, 0)
+print(a)
+
+a = substr('autobus je krasna vec', 0, 0)
+print(a)
+
+a = substr('autobus je krasna vec', 50, 3)
+print(a)
+
+a = substr('autobus je krasna vec', 50, 0)
+print(a)
+
+a = substr('autobus je krasna vec', 0, 50)
+print(a)
+
+a = substr('autobus je krasna vec', 50, 0)
+print(a)

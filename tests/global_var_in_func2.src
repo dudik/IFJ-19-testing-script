@@ -1,0 +1,17 @@
+a='auto'
+i= 50
+
+
+def foo():
+    od = 1
+    do = 3
+    b=len(a) 
+    c=ord(a,1)
+    d=chr(50)
+    sub= substr(a,od,do)
+
+    print(sub)
+    print(d)
+    print(c)
+    print(b) #shoud be 4
+foo()

@@ -1,0 +1,108 @@
+print('Toto je moj program')
+
+def dlzka(povDlzka):
+    if 3 != 2:
+        print('jo')
+    else:
+        if 5 == 5:
+            print('no')
+        else:
+            pass
+    if povDlzka < 50:
+        while povDlzka < 100:
+            povDlzka = povDlzka + 10
+            print(povDlzka)
+            if povDlzka > 80:
+                povDlzka = povDlzka - 1
+                if povDlzka == 30:
+                    print('Rona sa')
+                else:
+                    print('Nerovna sa')
+            else:
+                ban = 30
+                while ban > 20:
+                    if 3 == 3:
+                        while ban > 25:
+                            if 1:
+                                print('ban je tu')
+                            else:
+                                pass
+                            ban = ban - 1
+                    else:
+                        pass
+                    ban = ban - 1
+    else:
+        pass
+
+def start():
+    if 2 > 10:
+        pass
+    else:
+        a = 15
+        while a > 10:
+            dlzka(30)
+            a = a - 1
+
+x = 10
+while x > 5:
+    if 3 != 2:
+        print('jo')
+    else:
+        if 5 == 5:
+            print('no')
+        else:
+            pass
+    if x == 3:
+        start()
+    else:
+        dlzka(7)
+        z = 1
+        vyska = 10
+        while vyska < 20:
+            if (2 != 2):
+                pass
+            else:
+                vyska = vyska + 1
+    x = x - 1
+
+povDlzka = 8
+
+if povDlzka < 50:
+    while povDlzka < 100:
+        povDlzka = povDlzka + 10
+        print(povDlzka)
+        if povDlzka > 80:
+            povDlzka = povDlzka - 1
+            if povDlzka == 30:
+                print('Rona sa')
+            else:
+                print('Nerovna sa')
+        else:
+            ban = 30
+            while ban > 20:
+                if 3 == 3:
+                    while ban > 25:
+                        if 1:
+                            print('ban je tu')
+                        else:
+                            pass
+                        ban = ban - 1
+                else:
+                    pass
+                ban = ban - 1
+else:
+    pass
+
+if 2 == 2:
+    a = 10
+else:
+    pass
+
+a = 30
+
+if 2 == 2:
+    a = 10
+else:
+    print(a)
+
+a = 30

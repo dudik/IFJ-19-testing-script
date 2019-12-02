@@ -1,0 +1,10 @@
+a = 1
+
+if a == 1:
+    a = 3
+    if a == 3:
+        print('som tu juchu')
+    else:
+        print('hej')
+else:
+    print('cau')

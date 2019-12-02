@@ -1,0 +1,21 @@
+c=5
+d = 100
+f = 200
+
+while (c) :
+    a=c-2
+    c=c-1
+    while (d):
+        e=5
+        d=d-1
+        print(e)
+        while f:
+            print(f)
+            f=f-1
+            premena = d-f
+
+            
+
+
+print(a)
+print(premena)
