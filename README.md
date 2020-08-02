@@ -30,10 +30,3 @@ For example:
 ```
 
 For more information read the reference tests.
-
-## FAQ
-The script is bad.
-I know.
-
-Why english?
-I don't know.
